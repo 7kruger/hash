@@ -1,0 +1,17 @@
+C:\Users\kruger\source\repos\EnglishWordsTrainer\sha3\sha3\bin\Debug\net6.0\sha3.exe
+C:\Users\kruger\source\repos\EnglishWordsTrainer\sha3\sha3\bin\Debug\net6.0\sha3.deps.json
+C:\Users\kruger\source\repos\EnglishWordsTrainer\sha3\sha3\bin\Debug\net6.0\sha3.runtimeconfig.json
+C:\Users\kruger\source\repos\EnglishWordsTrainer\sha3\sha3\bin\Debug\net6.0\sha3.dll
+C:\Users\kruger\source\repos\EnglishWordsTrainer\sha3\sha3\bin\Debug\net6.0\sha3.pdb
+C:\Users\kruger\source\repos\EnglishWordsTrainer\sha3\sha3\bin\Debug\net6.0\SHA3.Net.dll
+C:\Users\kruger\source\repos\EnglishWordsTrainer\sha3\sha3\obj\Debug\net6.0\sha3.csproj.AssemblyReference.cache
+C:\Users\kruger\source\repos\EnglishWordsTrainer\sha3\sha3\obj\Debug\net6.0\sha3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kruger\source\repos\EnglishWordsTrainer\sha3\sha3\obj\Debug\net6.0\sha3.AssemblyInfoInputs.cache
+C:\Users\kruger\source\repos\EnglishWordsTrainer\sha3\sha3\obj\Debug\net6.0\sha3.AssemblyInfo.cs
+C:\Users\kruger\source\repos\EnglishWordsTrainer\sha3\sha3\obj\Debug\net6.0\sha3.csproj.CoreCompileInputs.cache
+C:\Users\kruger\source\repos\EnglishWordsTrainer\sha3\sha3\obj\Debug\net6.0\sha3.csproj.CopyComplete
+C:\Users\kruger\source\repos\EnglishWordsTrainer\sha3\sha3\obj\Debug\net6.0\sha3.dll
+C:\Users\kruger\source\repos\EnglishWordsTrainer\sha3\sha3\obj\Debug\net6.0\refint\sha3.dll
+C:\Users\kruger\source\repos\EnglishWordsTrainer\sha3\sha3\obj\Debug\net6.0\sha3.pdb
+C:\Users\kruger\source\repos\EnglishWordsTrainer\sha3\sha3\obj\Debug\net6.0\sha3.genruntimeconfig.cache
+C:\Users\kruger\source\repos\EnglishWordsTrainer\sha3\sha3\obj\Debug\net6.0\ref\sha3.dll

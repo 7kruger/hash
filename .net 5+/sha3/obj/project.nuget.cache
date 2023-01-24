@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YdWt9URLbJvw2cnHpvYBJIEzEw2j0+55yWIDBt8QNfkn9sgwv2ODhwy5ROjPhE/HVkOE1VNLF1Mkhgw//X0tRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kruger\\source\\repos\\EnglishWordsTrainer\\sha3\\sha3\\sha3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kruger\\.nuget\\packages\\sha3.net\\2.0.0\\sha3.net.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

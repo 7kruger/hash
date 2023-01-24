@@ -1,0 +1,16 @@
+C:\Users\kruger\source\repos\hash\hash\bin\Debug\netcoreapp3.1\hash.exe
+C:\Users\kruger\source\repos\hash\hash\bin\Debug\netcoreapp3.1\hash.deps.json
+C:\Users\kruger\source\repos\hash\hash\bin\Debug\netcoreapp3.1\hash.runtimeconfig.json
+C:\Users\kruger\source\repos\hash\hash\bin\Debug\netcoreapp3.1\hash.runtimeconfig.dev.json
+C:\Users\kruger\source\repos\hash\hash\bin\Debug\netcoreapp3.1\hash.dll
+C:\Users\kruger\source\repos\hash\hash\bin\Debug\netcoreapp3.1\hash.pdb
+C:\Users\kruger\source\repos\hash\hash\bin\Debug\netcoreapp3.1\SHA3.Net.dll
+C:\Users\kruger\source\repos\hash\hash\obj\Debug\netcoreapp3.1\hash.csproj.AssemblyReference.cache
+C:\Users\kruger\source\repos\hash\hash\obj\Debug\netcoreapp3.1\hash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kruger\source\repos\hash\hash\obj\Debug\netcoreapp3.1\hash.AssemblyInfoInputs.cache
+C:\Users\kruger\source\repos\hash\hash\obj\Debug\netcoreapp3.1\hash.AssemblyInfo.cs
+C:\Users\kruger\source\repos\hash\hash\obj\Debug\netcoreapp3.1\hash.csproj.CoreCompileInputs.cache
+C:\Users\kruger\source\repos\hash\hash\obj\Debug\netcoreapp3.1\hash.csproj.CopyComplete
+C:\Users\kruger\source\repos\hash\hash\obj\Debug\netcoreapp3.1\hash.dll
+C:\Users\kruger\source\repos\hash\hash\obj\Debug\netcoreapp3.1\hash.pdb
+C:\Users\kruger\source\repos\hash\hash\obj\Debug\netcoreapp3.1\hash.genruntimeconfig.cache
